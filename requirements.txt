@@ -1,0 +1,9 @@
+tensorflow
+keras
+comet_ml
+t4
+pandas
+numpy
+requests
+pillow
+imbalanced-learn
